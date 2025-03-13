@@ -34,7 +34,7 @@ export default async function page({ params }) {
           />
           <CardContent>
             <Typography variant="body2" color="text.secondary">
-              {data[0].detail}...
+              {data[0].detail}
             </Typography>
           </CardContent>
         </Card>
